@@ -44,6 +44,7 @@ Built and evaluated a Random Forest based rent prediction model with hyperparame
 
 ### MNIST Mixture Models
 Implemented and compared Gaussian, Laplacian, Bernoulli and Student-t mixture models for unsupervised image clustering.
+
 ---
 
 ## 🌱 Currently Learning
