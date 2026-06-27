@@ -2,7 +2,9 @@
 
 🎓 Pre-Final Year B.Tech Computer Science Student at IIT Gandhinagar
 
-I'm passionate about Software Engineering, Machine Learning, and Data-Centric AI. I enjoy building practical projects, learning core computer science concepts, and solving algorithmic problems.
+I'm currently exploring Artificial Intelligence and Machine Learning while building a strong foundation in Data Structures & Algorithms for software engineering internships.
+
+I enjoy learning by building projects, understanding concepts in depth, and continuously improving my problem-solving skills.
 
 ---
 
@@ -34,23 +36,28 @@ I'm passionate about Software Engineering, Machine Learning, and Data-Centric AI
 
 ## 🚀 Featured Projects
 
-### 🚪 GateGuard
-Campus Entry & Access Management System with PostgreSQL schema design, UML modeling, and database scalability concepts.
+### GateGuard
+Designed a normalized PostgreSQL database schema, created UML diagrams, and explored indexing and database sharding concepts as part of a team project.
 
-### 🏠 Rent Prediction Pipeline
-End-to-end Random Forest pipeline with hyperparameter optimization, Docker, Streamlit, and Hugging Face Spaces.
+### Rent Prediction Pipeline
+Built and evaluated a Random Forest based rent prediction model with hyperparameter optimization and deployed it using Streamlit and Docker.
 
-### 🧠 MNIST Mixture Models
-Comparison of Gaussian, Laplacian, Bernoulli, and Student-t Mixture Models on MNIST.
+### MNIST Mixture Models
+Implemented and compared Gaussian, Laplacian, Bernoulli and Student-t mixture models for unsupervised image clustering.
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Systems
 
 ---
 
-## 📚 Currently Learning
+## 📈 Competitive Programming
 
-- Data Structures & Algorithms
-- Software Engineering
-- Backend Development
-
+- LeetCode: 160+ problems solved
+- GeeksforGeeks: 120+ problems solved
 ---
 
 ## 🏃 Beyond Coding
