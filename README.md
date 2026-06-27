@@ -44,8 +44,7 @@ Implemented and compared Gaussian, Laplacian, Bernoulli and Student-t mixture mo
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Systems
+- AI/ML
 
 ---
 
